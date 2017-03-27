@@ -6,9 +6,9 @@ import pymysql
 import time
 
 hostname = 'academic-mysql.cc.gatech.edu'
-username = 'cs4400_Team_87'
-database = 'cs4400_Team_87'
-password = 'sQ0k8QOS'
+username = 'c'
+database = 'c'
+password = ''
 
 yearList = ['Freshman', 'Sophomore', 'Junior', 'Senior']
 
